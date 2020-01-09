@@ -1,0 +1,11 @@
+.App{
+    text-align: center;
+}
+
+.postBtn{
+    width: 80px;
+}
+
+.sortBtn{
+    line-height: 0;
+}
